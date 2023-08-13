@@ -38,8 +38,8 @@ Before running the application, make sure you have the following modules install
 
 ## Screenshots
 
-![Emotion Selection](screenshot2.png)
-
+![Emotion Selection](Screenshot-2.png)
+![Emotion Selection](Screenshot-3.png)
 ## Acknowledgements
 
 This project utilizes the `pyttsx3` library for text-to-speech functionality.
