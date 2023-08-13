@@ -1,6 +1,6 @@
 # Creative Text-to-Speech Converter
 
-![Text-to-Speech](Screenshot-1.png)
+![Text-to-Speech](..Screenshot-1.png)
 
 Welcome to the Creative Text-to-Speech Converter! This simple Python application lets you convert text into speech with creative emotional variations. You can choose from a range of emotions to make the speech sound unique and engaging.
 
@@ -38,8 +38,8 @@ Before running the application, make sure you have the following modules install
 
 ## Screenshots
 
-![Emotion Selection](Screenshot-2.png)
-![Emotion Selection](Screenshot-3.png)
+![Emotion Selection](..Screenshot-2.png)
+![Emotion Selection](..Screenshot-3.png)
 ## Acknowledgements
 
 This project utilizes the `pyttsx3` library for text-to-speech functionality.
